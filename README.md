@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" alt="Práctica Docker" src="https://github.com/user-attachments/assets/7323380c-c687-4fa5-ab7d-64b0ca5529bc" />
+  <img width="500" height="200" alt="Práctica Docker" src="https://github.com/user-attachments/assets/7323380c-c687-4fa5-ab7d-64b0ca5529bc" />
 </p>
 
 
